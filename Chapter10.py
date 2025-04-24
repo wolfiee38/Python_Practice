@@ -17,7 +17,7 @@ harry=Programmer("harry","js",5000)
 harry.getinfo()
 
 
-#2) write a class calculator to find square, cube and square root of a number
+#2) Write a class calculator to find square, cube and square root of a number.
 import math
 
 class Calculator:
